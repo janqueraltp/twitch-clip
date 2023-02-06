@@ -13,3 +13,4 @@ Vamos a comprovar que se a instalado correctamente con
 ```
 pip --version
 ```
+![image](https://user-images.githubusercontent.com/116662838/216862803-70082432-e64b-4732-a0bd-4b7dc3569e6b.png)
