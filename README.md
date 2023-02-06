@@ -13,7 +13,7 @@ python --version
 
 ![image](https://user-images.githubusercontent.com/116662838/216862501-a59f3951-a6a1-47a6-8524-ecc1629b2c10.png)
 
-### Instalar PIP
+## Instalar PIP
 Vamos a comprovar que se a instalado correctamente con
 ```
 pip --version
